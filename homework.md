@@ -7,3 +7,9 @@ Canbula
 Turan_s
 
 LethalLeblebi (Sinem Gençer, Onur Yaşar, Furkan Eryılmaz)
+
+
+# Strategy: Resource Hierarchy
+DuyguKara
+
+Duygu-Dilara ( Duygu Kara, Dilara Ceyda Çetin)
